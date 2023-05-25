@@ -1,0 +1,15 @@
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\bin\Debug\net7.0\Projeto MVC backend 2.exe
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\bin\Debug\net7.0\Projeto MVC backend 2.deps.json
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\bin\Debug\net7.0\Projeto MVC backend 2.runtimeconfig.json
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\bin\Debug\net7.0\Projeto MVC backend 2.dll
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\bin\Debug\net7.0\Projeto MVC backend 2.pdb
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\Projeto MVC backend 2.csproj.AssemblyReference.cache
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\Projeto MVC backend 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\Projeto MVC backend 2.AssemblyInfoInputs.cache
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\Projeto MVC backend 2.AssemblyInfo.cs
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\Projeto MVC backend 2.csproj.CoreCompileInputs.cache
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\Projeto MVC backend 2.dll
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\refint\Projeto MVC backend 2.dll
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\Projeto MVC backend 2.pdb
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\Projeto MVC backend 2.genruntimeconfig.cache
+C:\Users\36992072854\Desktop\Projeto MVC backend 2\obj\Debug\net7.0\ref\Projeto MVC backend 2.dll
